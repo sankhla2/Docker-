@@ -6,3 +6,7 @@ follow this :
 
 > After running this command for docker : command not found error 
 >>**sudo ln -s /Applications/Docker.app/Contents/Resources/bin/docker /usr/local/bin/docker**
+
+
+> https://www.docker.com/101-tutorial/
+> 
