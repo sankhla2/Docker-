@@ -9,4 +9,5 @@ follow this :
 
 
 3. https://www.docker.com/101-tutorial/
-> 
+4. For check docker images use the command : docker image ls or docker images
+5. 
